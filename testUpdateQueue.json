@@ -1,0 +1,48 @@
+{
+    "JobId": "00000000-0000-0000-0000-000000000000",
+    "Live": false,
+    "UserQueue": [
+      {
+        "Accepted": false,
+        "UserId": 0,
+        "Params": {
+          "MapId": 0,
+          "MatchSize": 4,
+          "CombatExperience": 4,
+          "MMR": 1
+        }
+      },
+      {
+        "Accepted": false,
+        "UserId": 1,
+        "Params": {
+          "MapId": 0,
+          "MatchSize": 4,
+          "CombatExperience": 4,
+          "MMR": 1
+        }
+      },
+      {
+        "Accepted": false,
+        "UserId": 2,
+        "Params": {
+          "MapId": 0,
+          "MatchSize": 4,
+          "CombatExperience": 4,
+          "MMR": 1
+        }
+      },
+      {
+        "Accepted": false,
+        "UserId": 3,
+        "Params": {
+          "MapId": 0,
+          "MatchSize": 4,
+          "CombatExperience": 4,
+          "MMR": 1
+        }
+      }
+      
+    ],
+    "ReservedServers": []
+}

@@ -1,0 +1,16 @@
+{
+    "contributors": [
+        "Travis Munger (Travington) <travis.munger@hotmail.com>",
+        "Santiago Medeglia (Synnefo1338) <Synnefo1338@gmail.com>"
+    ],
+    "displayName": "TTC Reforged Matchmaking Service",
+    "description": "Matchmaking external service.",
+    "main": "main",
+    "scripts": {
+        "start": "node main"
+    },
+    "dependencies": {
+        "dotenv": "^8.2.0",
+        "uuid": "^8.3.2"
+    }
+}
